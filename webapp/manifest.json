@@ -102,7 +102,7 @@
         },
         {
           "name": "RouteUsermenu",
-          "pattern": "Usermenu",
+          "pattern": "Usermenu/{id}",
           "target": [
             "TargetUsermenu"
           ]
